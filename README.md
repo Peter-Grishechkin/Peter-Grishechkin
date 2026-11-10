@@ -1,20 +1,37 @@
-# Peter Grishechkin
+<pre>
+ ●  ●  ●      peter@grish: ~ — zsh
 
-**Head of SEO** — 10+ years in search, working on ranking for Yandex & Google, ecommerce growth, entity-based SERP analytics, and SEO tooling built on LLMs.
+   ██████╗ ██████╗ ██╗███████╗██╗  ██╗        .-----.   
+  ██╔════╝ ██╔══██╗██║██╔════╝██║  ██║       / .---. \  
+  ██║  ███╗██████╔╝██║███████╗███████║      | | ··· | | 
+  ██║   ██║██╔══██╗██║╚════██║██╔══██║       \ '---' /  
+  ╚██████╔╝██║  ██║██║███████║██║  ██║        '-----'\  
+   ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝                \\
 
-## Projects
+  search · entities · llms · mcp
 
-- **[serp-xray](https://github.com/Peter-Grishechkin/serp-xray)** — local SERP entity-gap analyzer (SerpAPI top-20 → LLM entity extraction → knowledge-graph coverage vs your page → prioritized checklist)
-- **[grish-seo-audit-hermes](https://github.com/Peter-Grishechkin/grish-seo-audit-hermes)** — SEO-audit skill for Hermes Agent: 19+ agent roles in waves plus a 59-script Python kit (crawl, content/E-E-A-T, CWV, schema, backlinks, GSC/GA4, GEO); port of [claude-seo](https://github.com/AgriciDaniel/claude-seo)
-- **[bukvarix-mcp](https://github.com/Peter-Grishechkin/bukvarix-mcp)** — MCP server for the Bukvarix API: keyword research and domain analysis for Yandex/Google
-- **[topvisor-mcp](https://github.com/Peter-Grishechkin/topvisor-mcp)** — maintained MCP fork for the Topvisor API v2 (Yandex/Google rank tracking, wait-mode position checks)
-- **[Limitwick](https://github.com/Peter-Grishechkin/Limitwick)** — minimal macOS menu bar indicator for Codex and Claude Code usage limits
+peter@grish:~$ whoami
+Peter Grishechkin — Head of SEO, Buenos Aires
+10+ years in Yandex &amp; Google ranking and ecommerce growth.
+Now building SEO tooling: entity-based SERP analysis, AI citations, LLMs, MCP.
 
-## Writing & contact
+peter@grish:~$ ls ~/projects
+<a href="https://github.com/Peter-Grishechkin/serp-xray">serp-xray</a>               TS    SERP entity gaps: top-20 → LLM → knowledge graph vs a page
+<a href="https://github.com/Peter-Grishechkin/grish-seo-audit-hermes">grish-seo-audit-hermes</a>  Py    SEO-audit skill for Hermes Agent: 19+ roles, 59-script kit
+<a href="https://github.com/Peter-Grishechkin/bukvarix-mcp">bukvarix-mcp</a>            JS    MCP server for Bukvarix: keywords &amp; domains, Yandex/Google
+<a href="https://github.com/Peter-Grishechkin/topvisor-mcp">topvisor-mcp</a>            TS    MCP fork for Topvisor API v2: Yandex/Google rank tracking
+<a href="https://github.com/Peter-Grishechkin/Limitwick">Limitwick</a>               Swift macOS menu bar meter for Codex &amp; Claude Code usage limits
 
-- Blog: [t.me/seo_and_sem](https://t.me/seo_and_sem)
-- X: [@frankydzoro1](https://x.com/frankydzoro1)
+peter@grish:~$ cat stack.txt
+seo    SERP analysis · entities · knowledge graphs · AI citations · GEO
+ai     LLMs · MCP servers · agent skills · Claude Code · Codex
+code   Python · TypeScript · Swift · Next.js · FastAPI
 
-## Stack
+peter@grish:~$ contacts
+blog   <a href="https://grish.me">grish.me</a>
+tg     <a href="https://t.me/seo_and_sem">t.me/seo_and_sem</a>   «Разум Петра (SEO, AI и около)», RU
+dm     <a href="https://t.me/frankydzoro">@frankydzoro</a>       audits &amp; questions
+x      <a href="https://x.com/frankydzoro1">@frankydzoro1</a>
 
-SEO · SERP analysis · entity extraction · knowledge graphs · AI citations · LLMs · MCP · Next.js · FastAPI · Python · TypeScript
+peter@grish:~$ █
+</pre>
