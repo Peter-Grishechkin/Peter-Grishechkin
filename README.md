@@ -1,5 +1,5 @@
 <pre>
- ●  ●  ●      peter@grish: ~ — zsh
+peter@grish: ~ — zsh
 
    ██████╗ ██████╗ ██╗███████╗██╗  ██╗        .-----.   
   ██╔════╝ ██╔══██╗██║██╔════╝██║  ██║       / .---. \  
@@ -8,11 +8,9 @@
   ╚██████╔╝██║  ██║██║███████║██║  ██║        '-----'\  
    ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝                \\
 
-  search · entities · llms · mcp
-
 peter@grish:~$ whoami
 Peter Grishechkin — Head of SEO, Buenos Aires
-10+ years in Yandex &amp; Google ranking and ecommerce growth.
+15+ years in Yandex &amp; Google ranking and ecommerce growth.
 Now building SEO tooling: entity-based SERP analysis, AI citations, LLMs, MCP.
 
 peter@grish:~$ ls ~/projects
