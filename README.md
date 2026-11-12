@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-<pre>
+<!-- <pre>
 peter@grish: ~ — zsh
 
    ██████╗ ██████╗ ██╗███████╗██╗  ██╗        .-----.   
@@ -41,4 +41,4 @@ dm     <a href="https://t.me/frankydzoro">@frankydzoro</a>       audits &amp; qu
 x      <a href="https://x.com/frankydzoro1">@frankydzoro1</a>
 
 peter@grish:~$ █
-</pre>
+</pre> -->
