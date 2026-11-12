@@ -1,3 +1,12 @@
+
+<a href="https://t.me/frankydzoro">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/serp-climb-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/serp-climb-light.svg">
+    <img alt="To achieve such results, hire Peter Grishechkin." src="assets/serp-climb-light.svg">
+  </picture>
+</a>
+
 <pre>
 peter@grish: ~ — zsh
 
@@ -33,11 +42,3 @@ x      <a href="https://x.com/frankydzoro1">@frankydzoro1</a>
 
 peter@grish:~$ █
 </pre>
-
-<a href="https://t.me/frankydzoro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/serp-climb-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/serp-climb-light.svg">
-    <img alt="Animated terminal demo: your-site.com climbs from #5 to #1 in search results (illustration)" src="assets/serp-climb-light.svg">
-  </picture>
-</a>
