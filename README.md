@@ -4,6 +4,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/serp-climb-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/serp-climb-light.svg">
     <img alt="To achieve such results, hire Peter Grishechkin." src="assets/serp-climb-light.svg">
+    <p>To achieve such results, hire Peter Grishechkin.</p>
   </picture>
 </a>
 
